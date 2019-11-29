@@ -1,0 +1,49 @@
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #2b4b6b;
+  min-width: 1024px;
+}
+
+.el-submenu__title,
+.el-menu-item {
+  font-size: 13px;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+}
+
+.el-card {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-table {
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
+
+.el-input__icon {
+  /* 这里的 line-height 是一个系数， 最终的行高值，是 字体大小 * 这个系数 得到的结果 */
+  line-height: 1;
+}
+
+.el-steps {
+  margin: 15px 0;
+}
+
+.el-step__title {
+  font-size: 13px;
+}
+
+.ql-editor {
+  height: 400px;
+}
