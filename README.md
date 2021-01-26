@@ -6,7 +6,7 @@
 - 接口文档地址:
 - 后端api关注公众号：“编程算啥事”回复后 发送 “后台电商api”
 ## 扫码关注公众号回复“vue后台电商管理”获取该项目全部教学资料
-![markdown](http://8.129.163.16:5325/static/img/qrcode_for_gh_592ef9867fb2_258 (1).jpg"markdown")
+![markdown](http://8.129.163.16:5325/static/img/qrcode_for_gh_592ef9867fb2_258.jpg "markdown")
 ## 扫码关注公众号回复“vue后台电商管理”获取该项目全部教学资料
 ## 项目界面
 1
